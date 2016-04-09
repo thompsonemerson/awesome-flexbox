@@ -1,6 +1,6 @@
 [![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)
 
-![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)
+[![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
@@ -66,6 +66,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [6 Reasons to Start Using Flexbox](http://bitsofco.de/6-reasons-to-start-using-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_31)
 * [Advanced cross-browser flexbox](https://dev.opera.com/articles/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
+* [CSS Flexbox Is Entirely Logical (Almost)](https://paulrobertlloyd.com/2016/03/logical_flexbox)
 * [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/)
 * [Normalizando bugs no flexbox em diversos navegadores (pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197&source=single)
 * [Normalizing cross-browser Flexbox bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
@@ -87,6 +88,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*
+* [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_36):metal:
 * [Designing CSS layouts with flexbox is as easy as pie](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly&utm_medium=email)
 * [Flexbox’s Best-Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.i0v3krqo0)
@@ -96,6 +98,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
+
 #### Videos
 * [CSS Layout o ontem, o hoje e o depois (pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
 * [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
@@ -104,6 +107,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
 * [Flexbox - CSS Day](https://vimeo.com/131664957)
 * [Guía Completa de Flexbox desde 0 (ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
+* [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_34)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
 
@@ -137,6 +141,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
+* [Milligram](http://milligram.github.io/) - A minimalist CSS framework
 
 ## Featured Projects
 *Awesome projects about flexbox.*
@@ -167,6 +172,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * Philip Walton [@philwalton](https://twitter.com/philwalton)
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
+* Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
